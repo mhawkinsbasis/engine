@@ -1,0 +1,10 @@
+.panelStyles{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headerStyles{
+    background-color: aqua;
+    color: red;
+    size: 100px;
+}
